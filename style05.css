@@ -72,8 +72,8 @@ html {
   }
   p {
     max-width: 1500px;
-  }
-  :root {
+  } 
+:root {
     --footer-background: #F5DEB3;
     --text-color: #99775C;
     --text-gray: #FAFBFC;
