@@ -69,7 +69,7 @@ html {
   }
 .anaerobie img {
     margin: 50px;
-    width: auto;
+    max-width: 50%;
     height: auto;
 }
 :root {
