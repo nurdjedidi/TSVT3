@@ -82,14 +82,6 @@ html {
     --button-color: #404652;
     --button-border: #6B707C;
 }
-
-/*? footer reset */
-*, *::after, *::before {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
-
 /*? footer containers */
 
 footer {
@@ -303,3 +295,4 @@ footer {
     gap: 12px;
     list-style-type: none;
 }
+
