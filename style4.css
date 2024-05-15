@@ -62,7 +62,7 @@ html {
     margin-right: 10px; 
   }
   .aerobie { 
-    max-width: 1500px;
+    min-width: 30%;
   }
   .anaerobie {
     display: inline-flex;
@@ -70,7 +70,7 @@ html {
 .anaerobie img {
     margin: 50px;
     width: auto;
-    height: 450px;
+    height: auto;
 }
 :root {
     --footer-background: #F5DEB3;
