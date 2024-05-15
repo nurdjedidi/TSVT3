@@ -67,6 +67,9 @@ p {
 .mit { 
     display: inline-flex;
 }
+.mit ul { 
+    margin: 50px; 
+}
 .image { 
     margin: 50px;
 }
