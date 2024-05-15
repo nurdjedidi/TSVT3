@@ -68,10 +68,10 @@ html {
   }
   .autotrophe img {
     max-width: 40%;
-    margin-left: 50px;
+    margin: 50px;
   }
 .autotrophe ul { 
-    margin: 50px;
+    margin: 25px;
 }
   p {
     max-width: 1500px;
