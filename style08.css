@@ -71,7 +71,7 @@ html {
     width: 20%;
     height: 20%;
   }
-  :root {
+ :root {
     --footer-background: #F5DEB3;
     --text-color: #99775C;
     --text-gray: #FAFBFC;
@@ -80,10 +80,18 @@ html {
     --button-color: #404652;
     --button-border: #6B707C;
 }
+
+/*? footer reset */
+*, *::after, *::before {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
 /*? footer containers */
 
 footer {
-    position: absolute;
+    position: relative;
     bottom: 0px;
     background-color: var(--footer-background);
     min-width: 300px;
