@@ -64,12 +64,12 @@ html {
     display: inline-flex;
   }
   p { 
-    max-width: 1500px;
+    max-width: 55%;
   }
   .crossing { 
     margin: 50px;
     width: 40%;
-    height: 40%;
+    height: auto;
   }
   :root {
     --footer-background: #F5DEB3;
