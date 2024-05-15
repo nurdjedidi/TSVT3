@@ -68,6 +68,8 @@ html {
 .stress p {
     max-width: 40%;
   .adrenaline { 
+      width: 625px;
+      height: 685px;
   }
 
  :root {
