@@ -63,14 +63,16 @@ html {
   }
   .aerobie { 
     min-width: 50%;
-    margin: 10px;
   }
+.aerobie ul {
+    margin: 20px;
+}
   .anaerobie {
     display: inline-flex;
   }
 .anaerobie img {
     margin: 50px;
-    max-width: 50%;
+    max-width: 40%;
     height: auto;
 }
 :root {
