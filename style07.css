@@ -68,7 +68,7 @@ html {
   }
   .crossing { 
     margin: 50px;
-    width: 40%;
+    width: auto;
     height: auto;
   }
   :root {
