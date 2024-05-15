@@ -63,6 +63,11 @@ html {
   .climat { 
     display: inline-flex;
   }
+.climat ul { 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    margin-left: 50px;
+}
   .ccc { 
     max-width: 1500px;
   }
