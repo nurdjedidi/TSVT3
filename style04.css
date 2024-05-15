@@ -81,6 +81,9 @@ html {
   .fleur {
     display: inline-flex;
   }
+h2 { 
+    margin-top: 10px; 
+}
  :root {
     --footer-background: #F5DEB3;
     --text-color: #99775C;
