@@ -69,6 +69,11 @@ html {
   p, ul {
     max-width: 1500px;
   }
+ul { 
+    margin-left: 50px; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
   .graph { 
     margin: 50px;
     height: auto;
