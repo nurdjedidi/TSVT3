@@ -63,6 +63,7 @@ html {
   }
   .aerobie { 
     min-width: 50%;
+    margin: 10px;
   }
   .anaerobie {
     display: inline-flex;
