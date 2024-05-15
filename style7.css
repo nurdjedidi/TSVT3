@@ -65,13 +65,13 @@ html {
   .stress {
     display: inline-flex;
   }
+.stress p {
+    max-width: 40%;
   .adrenaline { 
     width: 50%;
     height: 50%;
   }
-  p { 
-    min-width: 40%;
-  }
+
  :root {
     --footer-background: #F5DEB3;
     --text-color: #99775C;
