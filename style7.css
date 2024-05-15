@@ -66,11 +66,11 @@ html {
     display: inline-flex;
   }
   .adrenaline { 
-    width: 960px;
+    width: 45%;
     height: auto;
   }
   p { 
-    max-width: 1500px;
+    max-width: 50%;
   }
  :root {
     --footer-background: #F5DEB3;
