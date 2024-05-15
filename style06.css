@@ -68,7 +68,9 @@ p {
     display: inline-flex;
 }
 .mit ul { 
-    margin: 50px; 
+    margin-left: 50px; 
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .image { 
     margin: 50px;
