@@ -71,7 +71,9 @@ html {
     margin: 50px;
   }
 .autotrophe ul { 
-    margin: 25px;
+    margin-left: 25px;
+    margin-top: 10px; 
+    margin-bottom: 10px;
 }
   p {
     max-width: 1500px;
