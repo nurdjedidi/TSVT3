@@ -81,7 +81,7 @@ html {
 /*? footer containers */
 
 footer {
-    position: absolute;
+    position: relative;
     bottom: 0px;
     background-color: var(--footer-background);
     min-width: 300px;
