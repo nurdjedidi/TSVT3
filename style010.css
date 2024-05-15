@@ -63,6 +63,11 @@ html {
   .diversification { 
     display: inline-flex;
   }
+.diversification ul {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
   .ddd { 
     max-width: 1500px;
   }
