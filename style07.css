@@ -68,6 +68,8 @@ html {
   }
   .crossing { 
     margin: 50px;
+    width: 50%;
+    height: 50%;
   }
   :root {
     --footer-background: #F5DEB3;
