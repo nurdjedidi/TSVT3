@@ -63,6 +63,9 @@ html {
   .dome { 
     display: inline-flex;
   }
+.dome p { 
+    min-width: 800px;
+}
   .jjj { 
     max-width: 40%;
   }
